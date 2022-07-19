@@ -1,0 +1,944 @@
+Login do GitHub
+OpVimoraes
+Senha:@Viniwp98
+
+sting - conjunto de comandos
+drawbox - caixa de cores ou comandos
+for of - variações para aplicação de código
+var someCustomColor - caixa para criação de cores
+
+09/06
+percurso
+curso - mentoria - desafio de código - desafio de projeto
+o desafio consiste em desenvolver a lógica computacional
+
+Exemplo de desafio:
+podendo alternar o desafios
+possuem 5 vidas
+diferença de produto
+
+exemplo de projeto:
+projeto consiste em promover um portfólio de projetos utilizando github
+GitHub - site de códigos fontes e compartilhamento entre devs.
+dinamica de um projeto - desenvolver possiveis programas
+"fork" 
+
+Dicas finais e conclusão
+"contrato de compromisso"
+central de ajuda
+artigos
+Rooms
+Live Codings
+
+13/06
+- Aula inaugural
+Sobre a DIO
+Quem ministra o programa
+Stacks Tecnologicas
+
+metodologia bootcamp
+"campo de treinamento" (Herança militar)
+treinamento imersivo para atuação em campo
+- projeto de portifólio
+- aprendizagem gamificada
+- prazos reais
+- desafios de códigos
+- comunidade colaborativa
+- modelo micro learning
+front - programação visível
+back end - ação dentro da plataforma 
+Stack Tecnonólogica
+Git
+GitHub
+HTML5
+CSS3
+JavaScript
+Framework(Angular)
+Visual Studio Code
+Java
+Springboot
+Intelijay/eclipe.
+
+ 15/06
+1 - primeiros passos para programar
+Prof. Juliana Mascarenhas
+
+- pensamento computacional
+Apresentar os conceitos que caracterizam o pensamento aplicado a dev
+"criar uma linha de raciocinio a ser aplicada a um programa"
+"sistematico e eficiente"
+baseado em 4 pilares
+- Decomposição
+"dividir um problema complexo em subproblemas"
+ "esquema por eliminação"
+- Reconhecimento de padrões
+"identificar similaridades e diferenças entre problemas"
+- Abstração
+"extrapolar o conceito do problema de forma generalista"
+
+- Design de algoritmos
+Definir a instrução para solução do problema
+Input(entrada) = Operator(operação) - Output(Resultado)
+Refinamento - teste - análise: Processo continuo
+Recursos comportamentais - Habilidades Humanas
+Abstração(resolução do problema) - Automação (Expressão da solução) - Análise (execução da solução e análise para refinamento)
+
+Competencias
+Pensamento sistematico
+colaboração dentro da equipe
+criatividade e design
+Facilitador
+
+
+Habilidades complementares
+Raciocinio Lógico - pensamento estruturado para conclusão de um problema.
+Indução - dedução - Abdução
+problemas de logica voltado ao pensamento cientifico
+Aperfeiçoamento - 
+otimizar,simplificar e ser eficiente em cada soluçãop
+
+- Decomposição
+definição de componentes e etapas.
+"quebrar um grande problema em problemas menores"
+estratégia(estudar, explorar)
+Análise (quebrar e determinar partes menores)
+Síntese (combinar os elementos menores de forma ordenada para solução)
+sequencial ou paralelo
+variaveis - pequenos problemas - segmentação
+identificar/coletar dados - agregar - funcionalidade
+ex:cozinhar, andar de bike, desenvolver um app
+
+- Padrões
+Reconhecimento de padrões
+estabelecimento de modelo que não sofre modificações durante execução
+assim podendo realizar a resolução de problemas diferentes
+Ex:compressão de dados,fotos de redes sociais
+classes, categorias.
+padrão obtido por comparação
+extração de caracteristicas, classificação de dados} Abordagem
+Metodos e aplicações
+Machine learning, IA, ciência de dados
+
+- Abstração
+generalização consiste em reunir em uma classe geral
+um conjunto de seres ou fenomenos similares
+
+como classificar os dados
+caracteristicas
+pontos essenciais
+generalizar x detalhar 
+estrutura de dados
+cliente x servidor
+estrutura de camadas (internet)
+ex: como limpar um terreno
+- como estruturar os dados recebidos para a tarrefa
+a fim de que seja otimizado e resolvido em menor tempo
+onde necessário partir do principio que classificar,
+distancia entre pontos, calcular a melhor rota e executar
+
+- Algoritmos
+operador de instruções para resolução de problemas por step by step
+programas > instruções 
+estudo de definição de entrada e saida
+Instruções detalhadas > Algoritmo > Programa
+ex: fazer um sanduíche, trocar uma lampada
+
+como construir um algoritmo
+compreensão do problema
+definição dos dados de entrada
+definir processamento
+definir dados de saida
+"portugol"
+narrativa - fluxograma - pseudocódigo
+
+- estudo de caso conceitual
+perdido
+estou perdido, como resolver o problema usando pensamento computacional
+problema principal - preciso sobreviver
+identificar os principais necessidades para sobrevivência
+identificar padrões dentro das necessidades
+traçar uma abstração de acordo com a situação
+foco nos aspectos principais. 
+criar instruções para manter a sobrevivência 
+
+Exemplo 2
+soma de intervalo
+somar entre 1 e 200
+decompor entre o menor e o maior
+estabeleço um padrão de resultado
+
+Exemplo 3
+Adivinhe o número
+- estabeleça o intervalo mais próximo (decomposição)
+- ordenar o vetor
+modulo l/2
+
+-Introdução a lógica de programação
+
+problema - questão - proposta dúvidosa
+possui diversas soluções
+
+lógica de programação: organização e planejamento de instruções assertivas
+em algoritmo a fim de viabilizar a implantação de um programa
+
+técnicas de lógica de programação
+planta baixa - projeto - planejamento
+
+Técnica linear - não tem vinculo - estrutura hierarquica - programação
+recursos limitados - execução sequenciada - unica dimensão
+Ex: levantar
+Tecnica estruturada 
+Organização que compõe um corpo
+programas
+escrita
+entendimento
+validação
+manutenção
+Ex: levantar, ir ao banheiro, fazer café ou suco e tomar
+
+técnica modular
+partes independentes
+controlada por um conjunto de regras
+dados de entrada - execução - saida
+simplifica,decompoe o problema e verifica por módulo
+
+Modulo para acordar - modulo para fazer café - modulo tomar café
+execução de diversos argumentos para execução do programa
+
+
+27/06
+- aula 3
+Fundamentos de algoritmos
+tipologias e variáveis
+
+variáveis
+informação: dados e instruções - tratadas e processadas
+tipos de dados
+númericos,caracteres
+lógico/booleano
+verdadeiro - 1
+falso - 0
+"um tipo de estrutura mutavel que pode variar o seu valor
+a fim de mudar o seu conteudo"
+"pode assumir qualquer um dos valores de um
+determinado conjunto de valores"
+
+regra
+atribuição de um ou mais caracteres
+primeira letra - não número
+sem espaços em branco
+vetado a utilização de palavras reservadas
+caracteres e números
+
+ação - modificação de estado
+controle -
+
+- instruções prmitivas
+cálculos matematicos - operadores
+variáveis
+constantes
+operadores: binário e unário
+
+exemplo
+
+inicio programa:
+
+nota1=5
+nota = 8
+resultado = 0
+
+Resultado = (nota 1 + nota 2/2)
+escreva resultado
+
+Fim programa
+
+saida
+6,5
+
+Estruturas condicionais e operadores
+
+dado o estado de algo - condição
+condição - operação
+|
+exceção
+
+estrututa condicional
+simples - composta - encadeada
+
+and - or - not
+verificação de V ou F
+
+estruturas de repetição
+laços - controles de fluxo - malhas de repetição - loop
+
+por que utiliza
+redução de linhas
+compreensão facilitada
+redução de erro
+
+Vetores e matrizes
+
+Vetor - é caracterizado por uma variavel e dimensionado
+por um tamanho pré fixado
+
+Matriz - é uma tabela organizada em linhas e colunas
+
+Funções - similar ao conceito de função matematica
+bloco - subalgoritmo - subrotina - subprograma - metodo
+Blocos de instruções que realizam tarefas especificas
+Decomposição do algoritmo
+dados - função - resultado
+
+exemplo
+média escolar através de função
+f.mediaescolar(nota1,nota2)
+Resultado = 0
+Resultado = (Nota1+nota2)/2
+
+retorne.resultado
+
+fim funcao
+
+Instruções de entrada e saida
+dados - processamento - resultado
+entrada - inserção de dados
+saida - impressão de dados
+saida programada 
+saida por interrupção
+
+Aula 4
+
+Linguagens de programação
+
+introdução a linguagem de programação
+de acordo com as dificuldades, compreender o pensamento
+para fundamentar a computação
+
+Hardware -> software
+
+- inicio da programação moderna com Turing
+- algebra booleana (base para pc atual)
+- IBM
+- ENIAC ( 1° computador programável)
+- Intel
+- Apple 1
+Windows XP
+
+Linguagens de programação
+1949 - Assembly(1°linguagem de maquina)
+1950 - Cobol,Fortran e Lisp
+1960 - C, Machine Learning
+1970 - Javascript,C#
+2000 - Java,timescript,Go,Ruby,Phyton
+
+problemas computacionais: objeto de discussão
+que possui instruções passo a passo
+problemas de decisão
+problemas de busca
+problemas de otimização
+
+linguagem de programação: metodo padronizado composto
+por um conjunto de palavras e regras para o código fonte
+
+Como um computador entende um programa?
+- geração do programa objeto > execução do programa objeto
+
+Caracteristicas de um programa
+legibilidade - facilidade de leitura, compreensão e definição adequada das estruturas
+redigibilidade - simplicidade de escrita,suporte a abstração
+confiabilidade (faz o que foi programado pra fazer) - verificação de tipos,trata exceções, uso de ponteiros
+custo (analise de impacto) - treinamento,codificação,compilação
+Atualizações,uso para IA, disponibilidade de ferramentas,comunidade ativa
+
+
+Análises de código
+análise léxica
+particionar - classificar - eliminar
+caracteres em branco,comentários
+
+análise sintática
+corretude do programa a partir de sua estrutura
+
+Análise Semantica
+lógica do programa, significado ao código
+
+
+- Paradigmas de programação
+forma de resolução de problemas com diretrizes e 
+limitações específicas de cada paradigma utilizando 
+linguagem de programação
+
+orientação a objeto,procedural.
+
+Estruturado (enfase em sequência)
+sequência,decisão,iteração - Linguagem C 
+utilizado para problemas simples e diretos
+aprender programação
+
+POO(programação orientada a objeto) ainda não compreendida por muitos
+
+Orientação a Objeto
+descrito por caracteristicas especificas,
+comportamento e estado
+voltado a lógica computacional
+o que tenho - sou capaz de fazer - como faço
+modelo,atributo,comportamento e estado
+
+Classe
+alocação em mémoria
+operações associadas
+
+estrutura
+operação não associada a estrutura
+
+- Primeiro contato com programação
+utilizando o portugol para programação
+
+
+28/06
+1.2 Introdução ao github
+plataforma utilizada para revisão de arquivos
+de programação
+Git
+beneficios de uso
+controle de versão
+armazenamento em nuvem
+trabalho em equipe
+melhorar seu código
+reconhecimento
+
+- navegação básicas de um bom desempenho no terminal
+Gui X Cli
+mudar de pastas
+listar as pastar
+criar pastas e arquivos
+deletar pastas e arquivos
+comandos no cmd
+cd - navegar entre pastas
+cd / - base de diretório, entrada em uma pasta
+cls (clear screen) - limpeza de terminal.
+cd.. - retroceder na base de diretorio
+tecla tab (completar comandos)
+dir - lista de pastas
+mkdir - criação de pasta(diretamente no diretório
+del - exclusão de arquivos no cmd
+rmdir - exclusão total da pasta e seus arquivos
+echo(ditar um comando)
+
+Instalando o Git
+
+Como o git funciona "debaixo dos panos"
+SHA1 - Algoritmo de Hash Seguro, voltado a segurança
+de dados por criptografia
+EX: echo "ola mundo"| openssl sha1. 
+Objetos Fundamentais -
+Sistema Distribuido -
+Segurança - 
+
+Objetos internos do Git
+Blobs(armazenamento de metadados do comando)
+EX: echo 'conteudo' | git-hash-object --stdin
+echo -e 'blob 9/0conteudo' |openssl sha1
+blob - sa4d8s - texto.txt
+Trees(estrutura de blocos de dados diferentes gerados)
+objeto necessário que organiza e destina para outros
+
+blob - sa4d8s - texto.txt
+\0 <tamanho>
+alt92 - barra invertida
+Commits - significancia de linha do tempo de ações
+realizadas e apontadas para trees e blobs
+
+sua seguricidade está relaciona a troca direta de
+todo e qualquer dado criptrografado por seu repositório
+"sistema distribuido e seguro"
+
+07/07
+- Comandos de git
+Chaves SSH e Tokens
+
+Chave SSH - conexão encriptada entre maquinas
+encriptar os repositorios do terminal por uma chave
+$ ssh-keygen -t ed25519 -C viniwp12@gmail.com (gerado ssh)
+vinculado o git
+
+Configurando tokens
+realizado diretamente no site do git, nas settings developers
+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 (token)
+
+11/07
+- primeiros comandos com o git
+
+git init
+mkdir
+cd 
+git init
+$ git config --global user.email "viniwp12@gmail.com"
+$ git config --global user.name OpVimoraes
+git add
+Markdown (.md)
+
+git con
+git commit
+
+
+Codigos do dia
+Desktop@DESKTOP-ID9LERC MINGW64 /c
+$ ls
+'$Recycle.Bin'/
+'$WINRE_BACKUP_PARTITION.MARKER'
+'$WinREAgent'/
+'Arquivos de Programas'@
+'Arquivos de Programas RFB'/
+ BOOTNXT
+ BOOTSECT.BAK
+ Boot/
+'Documents and Settings'@
+ DumpStack.log.tmp
+ Intel/
+ NVIDIA/
+ PerfLogs/
+'Program Files'/
+'Program Files (x86)'/
+ ProgramData/
+ Recovery/
+'Riot Games'/
+'System Volume Information'/
+ Users/
+ Windows/
+ bootmgr
+ hiberfil.sys
+ pagefile.sys
+ swapfile.sys
+ workspace/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c
+$ cd workspace
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace
+$
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace
+$ mkdir livro-receitas
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace
+$ ls
+livro-receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace
+$ cd livro-receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas
+$ git init
+Initialized empty Git repository in C:/workspace/livro-receitas/.git/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ ls -a
+./  ../  .git/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ cd .git/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas/.git (GIT_DIR!)
+$ ls
+HEAD  config  description  hooks/  info/  objects/  refs/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas/.git (GIT_DIR!)
+$ cd..
+bash: cd..: command not found
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas/.git (GIT_DIR!)
+$ cd ..
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git config --global user.email "viniwp12@gmail.com"
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git config --global user.name OpVimoraes
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git add *
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git commit -m "commit inicial"
+[master (root-commit) 658dc81] commit inicial
+ 1 file changed, 29 insertions(+)
+ create mode 100644 strogonoff.md.txt
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$
+
+
+- Ciclo de vida dos arquivos dentro do Git
+
+git init - inicializa um repositório
+
+git status
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c
+$ cd workspace
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace
+$ ls
+livro-receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace
+$ cd livro-receitas
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ çs
+bash: çs: command not found
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ ls
+receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ echo > README.txt
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ ls
+README.txt  receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    strogonoff.md.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    strogonoff.md.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git add *
+warning: in the working copy of 'README.txt', LF will be replaced by CRLF the next time Git touches it
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ ls
+README.txt  receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   README.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    strogonoff.md.txt
+
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git commit -m "adiciona index"
+[master d1d1cde] adiciona index
+ 1 file changed, 3 insertions(+)
+ create mode 100644 README.txt
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$
+
+19/07
+
+ Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git config --global user.email "viniwp12@gmail.com"
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git config --global user.name "OpVimoraes"
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ config --list
+bash: config: command not found
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=true
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.email=viniwp12@gmail.com
+user.name=OpVimoraes
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+gui.wmstate=normal
+:
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git config --global user.email "viniwp12@gmail.com"
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git config --global user.name "OpVimoraes"
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ config --list
+bash: config: command not found
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=true
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.email=viniwp12@gmail.com
+user.name=OpVimoraes
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+gui.wmstate=normal
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ ls
+README.txt  receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git remote add origin
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetc
+
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git remote add origin https://github.com/OpVimoraes/livro-receitas.g
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git remote -v
+origin  https://github.com/OpVimoraes/livro-receitas.git (fetch)
+origin  https://github.com/OpVimoraes/livro-receitas.git (push)
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory
+        deleted:    strogonoff.md.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git push origin master
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 1.16 KiB | 296.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/OpVimoraes/livro-receitas.git
+ * [new branch]      master -> master
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$
+ 
+- Resolvendo conflitos com o Git
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git remote add origin https://github.com/OpVimoraes/livro-receitas.g
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git remote -v
+origin  https://github.com/OpVimoraes/livro-receitas.git (fetch)
+origin  https://github.com/OpVimoraes/livro-receitas.git (push)
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory
+        deleted:    strogonoff.md.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git push origin master
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 1.16 KiB | 296.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/OpVimoraes/livro-receitas.git
+ * [new branch]      master -> master
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ ls
+README.txt  receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ cls
+bash: cls: command not found
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ q
+bash: q: command not found
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ ls
+README.txt  receitas/
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.txt
+        deleted:    strogonoff.md.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git add *
+warning: in the working copy of 'README.txt', LF will be replaced by CRLF the next time Git touches it
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    strogonoff.md.txt
+
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git commit -m "Adiciona receita pave"
+[master 4344b92] Adiciona receita pave
+ 1 file changed, 1 insertion(+)
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 356 bytes | 356.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/OpVimoraes/livro-receitas.git
+   d1d1cde..4344b92  master -> master
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git pull origin master
+From https://github.com/OpVimoraes/livro-receitas
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.txt
+        deleted:    strogonoff.md.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git add *
+warning: in the working copy of 'README.txt', LF will be replaced by CRLF the next time Git touches it
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git commit -m "resolve conflitos"
+[master 7dd212b] resolve conflitos
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$ git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 399 bytes | 399.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/OpVimoraes/livro-receitas.git
+   4344b92..7dd212b  master -> master
+
+Desktop@DESKTOP-ID9LERC MINGW64 /c/workspace/livro-receitas (master)
+$
+
++ criando o primeiro repositório no GitHub para
+compartilhar o seu progresso
+
+desafio do projeto
+- reforçar o conhecimento com git com um desafio totalmente prático
+executando os passos para criar, atualizar
+sincronizar de um repósitorio do GitHub
+
+- relembrando alteração com git
+criando repositorio no proprio GitHub
+realizar o push para o repositorio local
+
+
+
+
+
+
+
+
